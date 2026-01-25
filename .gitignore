@@ -1,5 +1,7 @@
 /venv310
 .user.yml
+.profiles.yml
+.dbt/
 /logs
 logs
 
